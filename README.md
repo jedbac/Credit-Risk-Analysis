@@ -35,6 +35,14 @@ Developed a two page interactive dashboard:
 Credit Risk Overview: Customer statistics and delinquency rates by age, income and credit utilisation.
 Risk Segmentation: Comparison of delinquency rates across credit utilisation and previous payment history.
 
+Page 1 - Credit Risk Overview:
+
+![Credit Risk Overview](PowerBI/Screenshots/Credit%20Risk%20Overview.png)
+
+Page 2 - Risk Segmentation:
+
+![Risk Segmentation](PowerBI/Screenshots/Risk%20Segmentation.png)
+
 Key Findings
 
 6.68% overall distress rate across the 150,000 customer records.
